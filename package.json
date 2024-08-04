@@ -1,12 +1,12 @@
 {
   "name": "readme-generator",
   "version": "1.0.0",
-  "description": "Generate a project README from use inputs",
+  "description": "generate a project README from user inputs using inquirer",
   "main": "index.js",
   "scripts": {},
   "author": "Alana Hearne",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^10.1.6"
+    "inquirer": "^8.2.4"
   }
 }
