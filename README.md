@@ -62,7 +62,7 @@ From your command line:
 $ git clone git@github.com:ajhearne-mZAOSW/readme-generator.git
 
 ### Navigate into the repository
-$ cd weather-dashboard
+$ cd readme-generator
 
 ### Open in IDE
 $ code .
