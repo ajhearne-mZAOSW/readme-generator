@@ -59,7 +59,7 @@ From your command line:
 
 ```md
 ### Clone this repository
-$ git clone git@github.com:ajhearne-mZAOSW/weather-dashboard.git
+$ git clone git@github.com:ajhearne-mZAOSW/readme-generator.git
 
 ### Navigate into the repository
 $ cd weather-dashboard
